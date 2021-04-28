@@ -40,3 +40,13 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+#downloadsoon {
+    text-align: center;
+
+}
+
+#copyright {
+    text-align: right;
+    color: gray
+}
