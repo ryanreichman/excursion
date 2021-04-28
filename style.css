@@ -1,0 +1,42 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color:white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+#video {
+    text-align: center;
+}
+
+#phone {
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-family: Verdana;
+    font-weight: 300;
+    color: white;
+}
+
+#tent {
+    text-align: center;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
